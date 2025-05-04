@@ -24,20 +24,17 @@ The app uses the **OpenWeather API** to fetch real-time weather information. The
 
 To run this project locally, follow these steps:
 
-
-# Clone the repository
-``bash
-  git clone https://github.com/vlaprogrammer3534/weather-app.git
-
-# Move into the project folder
-cd weather-app
-
-# Install dependencies (if any)
-pip install -r requirements.txt
-
-# Run the app
-python weather_app.py
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vlaprogrammer3534/weather-app.git
+   
+2. Navigate into the folder:
+   ```bash
+   cd weather-app
+3. Run the script:
+    ```bash
+   python extractor.py
+    
 ---
 
 ## 👨‍💻 Developer Information
@@ -46,3 +43,7 @@ python weather_app.py
 - **Project Type**: Personal Project
 - **Stack**: Python, Tkinter
 -- **Version**: v1.0
+
+---
+
+Would you like me to save this for you as a file or show the command to replace the current `README.md` content?
