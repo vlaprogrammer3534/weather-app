@@ -2,7 +2,7 @@ import tkinter as tk
 import requests
 
 # OpenWeatherMap API Key
-API_KEY = "6df154cdff3f2489b61ad99833d7ed70"  # Apna API key yahan daalain
+API_KEY = ""  # Add Your API keys there
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather?"
 
 # Function to get weather data from the API
